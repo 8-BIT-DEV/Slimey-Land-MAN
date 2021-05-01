@@ -12,7 +12,17 @@ Some simple rules for helping with the game
 - Check the gamejolt page for the bugs first as any there I am working on
 
 # Libraries Used
-- Still working on this list
+- C TMX LOADER
+- LIBZ
+- RAYLIB
+- OPENSSL
+- POSIX THREADS
+- HTTP.H
+- C Datastructs
+- JSMN
+- C GAMEJOLT API
+- MATOYA
+- STRING TOKENIZER
 
 # Ports
 - [X] Linux
