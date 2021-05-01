@@ -29,4 +29,4 @@ Some simple rules for helping with the game
 - [ ] Android
 
 # Compiling
-As slimey land man! is just A codeblocks project you can just open it up there and compile. For other platforms I am working on that. If you looked at the stuff with windows you would see its very broken. But it should be fixed "soon"
+As slimey land man! is just A codeblocks project you can just open it up there and compile. For other platforms I am working on that.
