@@ -66,8 +66,8 @@ void* yes(int what)
 void InitGame()
 {
     #ifndef WIN32
-    set_id("608787");
-    set_pkey("1c1d1990f3aaf45a661d66ed55953852");
+    set_id("put a gj game id here");
+    set_pkey("put a gj private key here");
     #endif // WIN32
     InitWindow(1280, 720, "SLIMEY LAND MAN");
     SetWindowState(FLAG_VSYNC_HINT);
