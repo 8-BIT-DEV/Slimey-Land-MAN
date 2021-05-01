@@ -8,8 +8,7 @@ Just A couple rules on recompiling
 
 # Contributing
 Some simple rules for helping with the game
-- First check issues for bugs to fix
-- Check the gamejolt page for the bugs first as any there I am working on
+- Dont make the problems worse
 
 # Libraries Used
 - C TMX LOADER
