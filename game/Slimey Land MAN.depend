@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1619737054 source:/home/redguy/Slimey Land MAN/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<unistd.h>
+	<malloc.h>
+	<time.h>
+	<raylib.h>
+	<ui/Button.h>
+	<raymath.h>
+	<plugin/Plugin.h>
+	<object/Defaults.h>
+	<scenes/Game.h>
+	<scenes/MainMenu.h>
+	<gj.h>
+	<gj.h>
+
+1617896142 /home/redguy/Slimey Land MAN//plugin/Plugin.h
+	<stdbool.h>
+	<raylib.h>
+
+1366980946 source:/home/redguy/Slimey Land MAN/dict.c
+	"dict.h"
+	<stdlib.h>
+	<string.h>
+
+1366980946 /home/redguy/Slimey Land MAN/dict.h
+
+1618337897 source:/home/redguy/Slimey Land MAN/arraylist.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"arraylist.h"
+
+1567785112 /home/redguy/Slimey Land MAN/arraylist.h
+
+1619567147 /home/redguy/Slimey Land MAN//object/Defaults.h
+	<raylib.h>
+	<object/GameObject.h>
+	<scenes/Game.h>
+	<stdbool.h>
+
+1617989337 /home/redguy/Slimey Land MAN//object/GameObject.h
+	<plugin/Plugin.h>
+	<raylib.h>
+
+1619569751 source:/home/redguy/Slimey Land MAN/plugin/Plugin.c
+	<plugin/Plugin.h>
+	<dict.h>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<stdbool.h>
+	<dlfcn.h>
+	<coreplugins/Player.h>
+	<coreplugins/Test.h>
+	<object/Defaults.h>
+	<raylib.h>
+
+1366980946 /home/redguy/Slimey Land MAN//dict.h
+
+1619567723 source:/home/redguy/Slimey Land MAN/object/Defaults.c
+	<object/Defaults.h>
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<scenes/Game.h>
+
+1618349705 source:/home/redguy/Slimey Land MAN/scene/Scene.c
+	<scene/Scene.h>
+	<stdbool.h>
+
+1618349618 /home/redguy/Slimey Land MAN//scene/Scene.h
+
+1619198951 /home/redguy/Slimey Land MAN//scenes/Game.h
+	<arraylist.h>
+	<raylib.h>
+	<ui/Button.h>
+
+1567785112 /home/redguy/Slimey Land MAN//arraylist.h
+
+1619666683 source:/home/redguy/Slimey Land MAN/scenes/Game.c
+	<scenes/Game.h>
+	<scenes/MainMenu.h>
+	<object/Defaults.h>
+	<object/GameObject.h>
+	<tmx.h>
+	<raylib.h>
+	<tokenizer.h>
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1551796357 source:/home/redguy/Slimey Land MAN/tokenizer.c
+	"tokenizer.h"
+
+1551796357 /home/redguy/Slimey Land MAN/tokenizer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1551796357 /home/redguy/Slimey Land MAN//tokenizer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619737182 source:/home/redguy/Slimey Land MAN/coreplugins/Player.c
+	<coreplugins/Player.h>
+	<raylib.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1619666240 /home/redguy/Slimey Land MAN//coreplugins/Player.h
+	<stdbool.h>
+	<object/Defaults.h>
+	<object/GameObject.h>
+	<scenes/Game.h>
+	<raylib.h>
+
+1619567917 /home/redguy/Slimey Land MAN//coreplugins/Test.h
+	<raylib.h>
+	<object/GameObject.h>
+	<object/Defaults.h>
+	<scenes/Game.h>
+
+1618374238 source:/home/redguy/Slimey Land MAN/logging/Logger.c
+	<logging/Logger.h>
+
+1618374052 /home/redguy/Slimey Land MAN//logging/Logger.h
+
+1619626691 source:/home/redguy/Slimey Land MAN/scenes/MainMenu.c
+	<scenes/MainMenu.h>
+	<scenes/Game.h>
+	<scenes/MapSelect.h>
+	<ui/Button.h>
+	<raylib.h>
+	<stdbool.h>
+	<stdio.h>
+
+1619196333 /home/redguy/Slimey Land MAN//scenes/MainMenu.h
+	<ui/Button.h>
+
+1618937257 /home/redguy/Slimey Land MAN//ui/Button.h
+	<stdbool.h>
+	<raylib.h>
+
+1619066104 source:/home/redguy/Slimey Land MAN/ui/Button.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<raylib.h>
+	<ui/Button.h>
+
+1619020388 /home/redguy/Slimey Land MAN//scenes/MapSelect.h
+	<raylib.h>
+	<ui/Button.h>
+
+1619626714 source:/home/redguy/Slimey Land MAN/scenes/MapSelect.c
+	<scenes/MapSelect.h>
+	<scenes/Game.h>
+	<dirent.h>
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<gj.h>
+
+1619833786 source:/home/redguy/Slimey Land MAN/gj.c
+	<gj.h>
+	<openssl/sha.h>
+	<string.h>
+	<http-get-gen.h>
+	<jsmn.h>
+	<stdarg.h>
+
+1619833193 /home/redguy/Slimey Land MAN//gj.h
+	<http-get-gen.h>
+	<stdbool.h>
+
+1611305431 /home/redguy/Slimey Land MAN//http-get.h
+	<stdlib.h>
+
+1585832892 /home/redguy/Slimey Land MAN//jsmn.h
+	<stddef.h>
+
+1619714290 source:/home/redguy/Slimey Land MAN/http-get.c
+	<curl/curl.h>
+	<string.h>
+	<stdlib.h>
+	"http-get.h"
+
+1611305431 /home/redguy/Slimey Land MAN/http-get.h
+	<stdlib.h>
+
+1619408647 /home/redguy/Slimey Land MAN//gj_win.h
+
+1619568949 source:/home/redguy/Slimey Land MAN/coreplugins/Effect.c
+	<scenes/Game.h>
+	<object/Defaults.h>
+	<raylib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1619835423 /home/redguy/Slimey Land MAN//http-get-gen.h
+
+1619833877 source:/home/redguy/Slimey Land MAN/http-get-gen.c
+	<stdio.h>
+	<stdlib.h>
+	<http-get-gen.h>
+	<http.h>
+	<matoya.h>
+
+1603387502 /home/redguy/Slimey Land MAN//http.h
+	<arpa/inet.h>
+	<netdb.h>
+	<netinet/in.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<unistd.h>
+
+1617276598 /home/redguy/Slimey Land MAN//matoya.h
+	<stdint.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdarg.h>
+

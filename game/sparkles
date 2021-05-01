@@ -1,0 +1,7 @@
+www.8bitdevgames.com/slm/api/has_sparkles.php?name=YayOP
+www.8bitdevgames.com/slm/api/has_feature.php?name=YayOP
+www.8bitdevgames.com/slm/api/set_sparkles.php?name=Telle&password=somepassword
+1 255 255 0
+
+givesparkles [username] [r] [g] [b]
+givesparkles YayOP
