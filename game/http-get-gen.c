@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <http-get-gen.h>
-#include <http.h>
 #include <matoya.h>
 
 extern bool exitnow;
