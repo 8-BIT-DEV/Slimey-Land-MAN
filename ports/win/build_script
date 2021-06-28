@@ -1,0 +1,3 @@
+echo "Build SLM for windows 10"
+x86_64-w64-mingw32-gcc -I../ -Iwin-headers -Lwin-lib -DWIN32 win-lib/dlfcn.c ../main.c ../arraylist.c ../dict.c ../tokenizer.c ../coreplugins/*.c ../object/*.c ../plugin/*.c ../scene/*.c ../scenes/*.c ../ui/*.c -o slm.exe -lraylib -ltmx -lxml2 -lzlibstatic
+echo "Done"
