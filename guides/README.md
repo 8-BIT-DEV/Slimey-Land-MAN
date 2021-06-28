@@ -5,6 +5,6 @@ These are guides on howto use the CDK (Content Development Kit).
 - [ ] Plugin Basics
 - [ ] Plugin Utilities
 - [ ] Creating A Map
-- [ ] Creating A Material Pack
+- [X] Creating A Material Pack
 - [ ] Making A Shader
 - [ ] Making A UI
