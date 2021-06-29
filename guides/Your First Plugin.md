@@ -59,7 +59,7 @@ void getlinks(char* links[256])
 void init()
 {
 	// the update/render function argument can be NULL
-	AddPluginM("My object", "Its an object", true, -1, LoadTexture("default-tex-here.png"), LoadTexture("icon-here.png"), NULL, object_update, object_render, object_init);
+	AddPluginM("My object", "Its an object", true, -1, LoadTexture("tex-here.png"), LoadTexture("icon-here.png"), NULL, object_update, object_render, object_init);
 }
 
 void initinit()
